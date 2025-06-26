@@ -99,23 +99,6 @@ An Arduino-powered mobile robot with a 3D-printed, servo-controlled manipulator 
 
 ---
 
-## 👨‍💻 Contributors
-
-| Name | Role |
-|------|------|
-| **Pranav P** | Robotic Arm Control Circuit, Poster Design |
-| **Siddharth Huddar** | Mobile Chassis Circuit + Code, Report Lead |
-| **Aryan Pawar** | Chassis Assembly, Arm Integration |
-| **Priyam Agarwala** | Mechanical Design, Procurement, Team Coordination |
-
----
-
-## 📜 License
-
-MIT License — you're free to fork, modify, and build on this!
-
----
-
 ## 🧠 Future Enhancements
 
 - Integrate camera for object recognition
@@ -125,7 +108,6 @@ MIT License — you're free to fork, modify, and build on this!
 
 ---
 
-## 🙌 Acknowledgements
-
-- **IET Learning Outcomes** mapped in Annexure
-- Supported by Department of Mechatronics – MTE 2141
+## Author
+- **Siddharth Huddar**
+- B.Tech Mechatronics Engineering 
